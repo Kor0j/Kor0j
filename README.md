@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm getting back into things!
+
+- 🔭 I’m currently working on making websites again.
+- 🌱 I’m currently learning PHP all over again.
+- 👯 I’m looking to collaborate on a Metroid Fusion homage.
+- 🤔 I’m looking for help with Godot and Unity.
+- 💬 Ask me about that one project I did in college.
+- 📫 How to reach me: I'm @JenHusky on Telegram and JennaHusky#6617 on Discord!
+- 😄 Pronouns: she/her or xe/xer!
+- ⚡ Fun fact: I'm a Jill of many trades, and I'm a fast learner! I'm neurodivergent, and that's cool!
 
 <!--
 **Kor0j/Kor0j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
