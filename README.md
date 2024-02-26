@@ -1,12 +1,12 @@
 ### Hi there! I'm getting back into things!
 
-- 🔭 I’m currently working on making websites again.
-- 🌱 I’m currently learning PHP all over again.
-- 👯 I’m looking to collaborate on a Metroid Fusion homage.
+- 🔭 I’m currently working on Unity projects.
+- 🌱 I’m currently learning Blender. (Slowly.)
+- 👯 I’m looking to collaborate on a Metroid Fusion homage, eventually!
 - 🤔 I’m looking for help with Godot and Unity.
-- 💬 Ask me about that one project I did in college.
-- 📫 How to reach me: I'm @JenHusky on Telegram and JennaHusky#6617 on Discord!
-- 😄 Pronouns: she/her or xe/xer!
+- 💬 Ask me about that one project I did in college!
+- 📫 How to reach me: I'm @JenHusky on Telegram and IndigoNocturna on Discord!
+- 😄 Pronouns: she/her or it/its!
 - ⚡ Fun fact: I'm a Jill of many trades, and I'm a fast learner! I'm neurodivergent, and that's cool!
 
 <!--
